@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This repository showcases the implementation of security enhancements for Passive Keyless Entry (PKE) systems in vehicles. Our work is inspired by the research paper "Relay Attack Resistant Passive Keyless Entry: Securing PKE Systems with Immobility Detection" by Abel Valko from the KTH Royal Institute of Technology. We employ the Raspberry Pi to simulate the interactions between a vehicle and its key fob.
+This capstone project is a culmination of our knowledge in the Cyber Security degree program at Sheridan College in which our goals are to enhance the security measures of Passive Keyless Entry (PKE) systems in vehicles. Inspired by Abel Valko's research paper, we have crafted an innovative solution blending both hardware and software to substantiate our security vision.
 
 ## Technical Background
 
@@ -31,3 +31,7 @@ Other contributors to the project are:
 - [Luca Di Bartolomeo](https://www.linkedin.com/in/dibartolomeoluca/)
 - [Renee Tyra Evangelista](https://www.linkedin.com/in/rtyraevangelista/)
 - [Julian Lee](https://www.linkedin.com/in/julianlee1111/)
+
+## References
+
+- [Abel Valko's research paper](https://www.researchgate.net/publication/351761565_Relay_Attack_Resistant_Passive_Keyless_Entry_Securing_PKE_Systems_with_Immobility_Detection)
