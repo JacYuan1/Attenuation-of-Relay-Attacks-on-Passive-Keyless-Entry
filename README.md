@@ -6,7 +6,7 @@ This repository showcases the implementation of security enhancements for Passiv
 
 ## Technical Background
 
-PKE systems, while offering unparalleled convenience, are susceptible to relay attacks that can bypass their encryption, leading to unauthorized access. To address these vulnerabilities, our project emphasizes two key defense mechanisms:
+While PKE systems offer unparalleled convenience, they are still susceptible to relay attacks that can bypass their encryption leading to unauthorized access. To address these vulnerabilities, our project emphasizes two key defense mechanisms:
 
 - **Immobility Detection:** Leveraging an accelerometer connected to the Raspberry Pi, this method determines if the simulated key fob is stationary. Stationary states result in denied access requests, thwarting potential relay attacks.
   
