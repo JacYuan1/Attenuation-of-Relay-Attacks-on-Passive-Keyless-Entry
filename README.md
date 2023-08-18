@@ -21,7 +21,7 @@ Our objectives encompass:
 
 ## Setup & Execution
 
-For a detailed guide on project setup and execution, kindly refer to our [research paper](Capstone - Final Paper.pdf).
+For a detailed guide on project setup and execution, kindly refer to our [research paper](https://github.com/JacYuan1/Attenuation-of-Relay-Attacks-on-Passive-Keyless-Entry/blob/main/Capstone%20-%20Final%20Paper.pdf).
 
 ## Contributors
 
