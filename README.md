@@ -21,7 +21,7 @@ Our objectives encompass:
 
 ## Setup & Execution
 
-For a detailed guide on project setup and execution, kindly refer to our [research paper](link-to-installation-guide).
+For a detailed guide on project setup and execution, kindly refer to our [research paper](Capstone - Final Paper.pdf).
 
 ## Contributors
 
