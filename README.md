@@ -24,7 +24,7 @@ For a detailed guide on project setup and execution, kindly refer to our [resear
 
 ## Contributors
 
-Other contributors to the project are:
+Other contributors to the project:
 
 - [Cristian Di Bartolomeo](https://www.linkedin.com/in/dibarc/)
 - [Luca Di Bartolomeo](https://www.linkedin.com/in/dibartolomeoluca/)
