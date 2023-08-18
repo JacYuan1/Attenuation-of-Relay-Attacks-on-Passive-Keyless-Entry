@@ -16,7 +16,7 @@ While PKE systems offer unparalleled convenience, they are still susceptible to 
 
 Our objectives encompass:
 - Simulating the interplay between a vehicle and its key fob using Raspberry Pi.
-- Proposing a solution primed for integration into real-world PKE systems to bolster security.
+- Provid a proof of concept solution primed for integration into real-world PKE systems to bolster security.
 
 ## Setup & Execution
 
