@@ -24,7 +24,7 @@ For a detailed guide on project setup and execution, kindly refer to our [resear
 
 ## Video Presentation
 
-
+[Link to video](https://drive.google.com/file/d/1rtvFt3tEXB0PVJVoQG9gAHIzCJaUPO7i/view?usp=sharing)
 
 ## Contributors
 
