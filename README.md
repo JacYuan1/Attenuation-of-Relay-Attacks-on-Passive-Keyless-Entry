@@ -28,6 +28,9 @@ For a detailed guide on project setup and execution, kindly refer to our [resear
 Other contributors to the project are the following:
 
 [Cristian Di Bartolomeo](https://www.linkedin.com/in/dibarc/)
+
 [Luca Di Bartolomeo](https://www.linkedin.com/in/dibartolomeoluca/)
+
 [Renee Tyra Evangelista](https://www.linkedin.com/in/rtyraevangelista/)
+
 [Julian Lee](https://www.linkedin.com/in/julianlee1111/)
