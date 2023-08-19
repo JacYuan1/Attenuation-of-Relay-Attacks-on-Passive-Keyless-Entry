@@ -10,7 +10,7 @@ While PKE systems offer unparalleled convenience, they are still susceptible to 
 
 - **Immobility Detection:** Leveraging an accelerometer connected to the Raspberry Pi, this method determines if the simulated key fob is stationary. Stationary states result in denied access requests, thwarting potential relay attacks.
   
-- **Distance Bounding Protocols:** Incorporating a radio transceiver operating at 915 MHz with the Raspberry Pi, this approach gauges the actual physical distance between the simulated vehicle and key fob, ensuring the key is within a predefined range.
+- **Distance Bounding Protocol:** Incorporating a radio transceiver operating at 915 MHz with the Raspberry Pi, this approach gauges the actual physical distance between the simulated vehicle and key fob, ensuring the key is within a predefined range.
 
 ## Project Objectives
 
