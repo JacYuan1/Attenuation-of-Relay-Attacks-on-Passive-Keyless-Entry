@@ -1,6 +1,6 @@
 # Attenuation of Relay Attacks on Passive Keyless Entry
 
-![profile image](profile icon.png)
+![profile image](icon.png)
 
 ## About the Project
 
