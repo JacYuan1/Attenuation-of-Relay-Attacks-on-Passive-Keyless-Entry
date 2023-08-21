@@ -1,5 +1,7 @@
 # Attenuation of Relay Attacks on Passive Keyless Entry
 
+![profile image](icon.png)
+
 ## About the Project
 
 This capstone project is a culmination of our knowledge in the Cyber Security degree program at Sheridan College in which our goals are to enhance the security measures of Passive Keyless Entry (PKE) systems in vehicles. Inspired by Abel Valko's research paper, we have crafted an innovative solution blending both hardware and software to substantiate our security vision.
